@@ -63,9 +63,7 @@ class SignInPage extends StatelessWidget {
                               color: Colors.green,
                               fontWeight: FontWeight.w600)),
                     ],
-                    style: TextStyle(
-                      color: Colors.black,
-                    ),
+                    style: TextStyle(color: Colors.black, fontSize: 14),
                   ),
                 ),
               ),
